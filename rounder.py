@@ -1,6 +1,6 @@
 # Mike Goldman
 # mikerah@gmail.com
-# put link to github here
+# https://github.com/mikerah13/python_samples/blob/master/rounder.py
 
 # Create a function (in whatever language you're most comfortable) to round 
 # a number to the nearest X, where X can be any positive integer. Numbers 
