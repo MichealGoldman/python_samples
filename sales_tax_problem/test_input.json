@@ -1,0 +1,13 @@
+{
+	"text": "1 imported bottle of perfume: 32.19\n1 bottle of perfume: 20.89\n1 packet of headache pills: 9.75\n1 box of imported chocolates: 11.85\nSales Taxes: 6.70\nTotal: 74.68",
+	"smtext": "10 import dogs at 12.49",
+	"smtext_out": "10 import dogs: 124.90\nSales Taxes: 18.74\nTotal: 124.90",
+	"tax": "True",
+	"duty": "True",
+	"price": 12.49,
+	"taxes": 0.7500000000000001,
+	"rtaxes" : 1.33,
+	"subtotal": 143.63500000000002,
+	"roundup_ans": 1.35,
+	"cl_tax": 18.735000000000003
+}
